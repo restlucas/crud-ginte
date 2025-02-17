@@ -81,11 +81,11 @@ Antes de começar, é necessário ter os seguintes programas instalados:
 
 ## Estrutura do projeto
 
-A estrutura do projeto foi organizada da seguinte maneira:
+A estrutura do projeto foi organizada da seguinte maneira (diretório src/):
 
 ```bash
 ├── @types/             # Pasta para tipagens  
-├── app/                # Diretório principald o Next.js
+├── app/                # Diretório principal do Next.js
 │   ├── (ginte)/        # Páginas acessíveis após o login
 │   ├── api/            # Rotas da API 
 │   └── login/          # Página de login
